@@ -1,0 +1,19 @@
+{
+  "name": "mqtt-aws-iot-test",
+  "version": "1.0.0",
+  "description": "MQTT Tester",
+  "main": "start.js",
+  "scripts": {
+    "test": "",
+    "dev": "node start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pretxel/mqtt-aws-iot-template.git"
+  },
+  "author": "Edsel Serrano",
+  "license": "ISC",
+  "dependencies": {
+    "aws-iot-device-sdk": "^2.0.1"
+  }
+}
